@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath>
 using namespace std;
 double CostPerHour = 18.50;
 double CostPerMinute = 0.40;
